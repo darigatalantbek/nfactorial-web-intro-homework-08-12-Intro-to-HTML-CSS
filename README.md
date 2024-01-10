@@ -1,1 +1,1 @@
-# nfactorial-web-intro-homework-08-12-Intro-to-HTML-CSS
+# web-intro-homework-10-12-Intro-js
